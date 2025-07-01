@@ -1,3 +1,3 @@
--- demo streamlit app, testing for deployment.
--- deployment succesful ggs.
--- link: https://churn-dashboard-ccyhyznod7pg39ssgdasx8.streamlit.app/
+- demo streamlit app, testing for deployment.
+- deployment succesful ggs.
+- link: https://churn-dashboard-ccyhyznod7pg39ssgdasx8.streamlit.app/
